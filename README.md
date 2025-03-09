@@ -1,6 +1,6 @@
 # Scheme RayTracer
 
-Couple goals that project solving:  
+Couple goals in this project:  
 
 1. **Scheme Language Interpreter**  
    Build a small interpreter capable of parsing and executing Scheme code.
