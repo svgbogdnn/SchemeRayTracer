@@ -1,8 +1,6 @@
-# SchemeRayTracer
+# Scheme RayTracer
 
-## Overview
-
-This repository is a collection of tasks for an LLVM-focused course. The core goals are:
+Couple goals that project solving:  
 
 1. **Scheme Language Interpreter**  
    Build a small interpreter capable of parsing and executing Scheme code.
